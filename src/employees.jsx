@@ -1,5 +1,5 @@
 export default function Employees(){
 return <section>
-    <h2>Employees!!</h2>
+    <h2> im Employees</h2>
 </section>
 }
